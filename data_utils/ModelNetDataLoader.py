@@ -11,8 +11,6 @@ import pickle
 from tqdm import tqdm
 from torch.utils.data import Dataset
 
-import open3d as o3d
-
 warnings.filterwarnings('ignore')
 
 
